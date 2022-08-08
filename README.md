@@ -20,4 +20,4 @@ JUnit: Version 5
 
 ## Test Cases
 
-- The test cases are implemented sing JUnit testing framework.
+- The test cases are implemented using JUnit testing framework.
